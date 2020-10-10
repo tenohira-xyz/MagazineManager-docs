@@ -25,9 +25,9 @@
 - [索引画面コントローラクラス](controller-index.md)
 
 ### Service層
-- [雑誌サービスクラス]()
-- [記事サービスクラス]()
-- [索引サービスクラス]()
+- [雑誌サービスクラス](service-magazine.md)
+- [記事サービスクラス](service-article.md)
+- [索引サービスクラス](service-keyword.md)
 
 ### Repository層
 - [雑誌リポジトリクラス]()

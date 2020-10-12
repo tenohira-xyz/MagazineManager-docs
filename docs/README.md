@@ -44,5 +44,8 @@
 - [索引画面のフォーム](form-index.md)
     - [フォームのキーワードクラス](form-index.md#フォームのキーワードクラス)
 
-
+### Model(Entity)
+- [雑誌クラス](model-magazine.md)
+- [記事クラス](model-article.md)
+- [キーワードクラス](model-keyword.md)
 

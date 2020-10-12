@@ -27,10 +27,10 @@
 ### Service層
 - [雑誌サービスクラス](service-magazine.md)
 - [記事サービスクラス](service-article.md)
-- [索引サービスクラス](service-keyword.md)
+- [キーワードサービスクラス](service-keyword.md)
 
 ### Repository層
-- [雑誌リポジトリクラス]()
-- [記事リポジトリクラス]()
-- [索引リポジトリクラス]()
+- [雑誌リポジトリクラス](repository-magazine.md)
+- [記事リポジトリクラス](repository-article.md)
+- [キーワードリポジトリクラス](repository-keyword.md)
 

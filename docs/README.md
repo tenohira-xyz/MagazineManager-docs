@@ -49,3 +49,5 @@
 - [記事クラス](model-article.md)
 - [キーワードクラス](model-keyword.md)
 
+### セキュリティ設定
+- [セキュリティ設定クラス](security-settings.md)

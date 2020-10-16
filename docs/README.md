@@ -49,6 +49,9 @@
 - [記事クラス](model-article.md)
 - [キーワードクラス](model-keyword.md)
 
+### 例外
+- [独自に定義する例外](exception.md)
+
 ### セキュリティ設定
 - [セキュリティ設定クラス](security-settings.md)
 

@@ -75,4 +75,7 @@
 - [キーワードサービスクラス](ut-service-keyword.md)
 
 ### Repository
+- [雑誌リポジトリクラス](ut-repository-magazine.md)
+- [記事リポジトリクラス](ut-repository-article.md)
+- [キーワードリポジトリクラス](ut-repository-keyword.md)
 
